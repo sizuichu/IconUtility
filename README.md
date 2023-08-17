@@ -9,7 +9,7 @@
 1.将字体图标加载到资源文件中；
 
 2.利用System.Drawing将字体图标绘制为图片加载到VSTO项目中；
-
+3.WPS中将 Color backgroundColor = Color.FromRGB(A,R,G,B);
 最终效果：
 
 1.解决WPS图标阴影；
